@@ -1,4 +1,4 @@
-arat
+//find
 
 	Set(HEADER_CG_STATE_CHECKER, sizeof(BYTE), "ServerStateCheck", false);
 	

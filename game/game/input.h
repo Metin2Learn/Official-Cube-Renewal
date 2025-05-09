@@ -1,8 +1,8 @@
-arat
+//arat  find
 
 int			MyShop
 
-altına ekle
+//add 
 
 #ifdef ENABLE_CUBE_RENEWAL_WORLDARD
 		void 		CubeRenewalSend(LPCHARACTER ch, const char* data);

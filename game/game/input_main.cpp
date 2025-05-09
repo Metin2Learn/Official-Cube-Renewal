@@ -1,10 +1,10 @@
-arat
+//find
 
 	case HEADER_CG_REFINE:
 		Refine(ch, c_pData);
 		break;
 
-altına ekle
+//add
 
 #ifdef ENABLE_CUBE_RENEWAL_WORLDARD
 	case HEADER_CG_CUBE_RENEWAL:
@@ -16,7 +16,7 @@ arat
 
 int CInputDead::Analyze(LPDESC d, BYTE bHeader, const char* c_pData)
 
-üstüne ekle
+add after
 
 #ifdef ENABLE_CUBE_RENEWAL_WORLDARD
 void CInputMain::CubeRenewalSend(LPCHARACTER ch, const char* data)

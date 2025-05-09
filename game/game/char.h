@@ -1,8 +1,8 @@
-arat
+find
 
 #include "cube.h"
 
-değiştir
+change
 
 #ifndef ENABLE_CUBE_RENEWAL_WORLDARD
 #include "cube.h"

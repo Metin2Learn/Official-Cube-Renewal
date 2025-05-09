@@ -1,8 +1,8 @@
-arat
+//find
 
 ACMD(do_cube)
 
-komple değiştir
+//replace complete
 
 #ifdef ENABLE_CUBE_RENEWAL_WORLDARD
 ACMD(do_cube)

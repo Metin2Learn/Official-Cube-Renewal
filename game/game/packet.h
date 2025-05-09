@@ -1,29 +1,29 @@
-arat
+//find
 
 HEADER_CG_STATE_CHECKER
 
-altına ekle
+//add after
 
 #ifdef ENABLE_CUBE_RENEWAL_WORLDARD
 	HEADER_CG_CUBE_RENEWAL = 207,
 #endif
 
-arat
+//find
 
 HEADER_GC_RESPOND_CHANNELSTATUS
 
-altına ekle
+//add after
 
 #ifdef ENABLE_CUBE_RENEWAL_WORLDARD
 		HEADER_GC_CUBE_RENEWAL = 214,
 #endif
 
-arat
+//find
 
 #pragma pack()
 #endif
 
-üstüne ekle
+//add before
 
 #ifdef ENABLE_CUBE_RENEWAL_WORLDARD
 enum
